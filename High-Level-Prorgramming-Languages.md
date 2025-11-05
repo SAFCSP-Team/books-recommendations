@@ -1,5 +1,5 @@
-# C++
-This file contains a selected list of suggested books on C++.
+# High-Level Programming Languages
+This file contains a selected list of suggested books on high-level programming languages.
 
 ### 1. [C++ Without Fear](https://www.amazon.com/Without-Fear-Beginners-Guide-Makes/dp/0132673266)
 
