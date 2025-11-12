@@ -1,2 +1,7 @@
-# books-recommendations
-This folder contains a comprehensive collection of files, each dedicated to recommending essential books across various technical topics. Each file focuses on a specific area of study and includes a selection of books.
+# Resources Recommendations
+
+This repository offers a comprehensive collection of resources to recommend essential books, websites, and videos across a wide range of technical topics. Each file is dedicated to a specific area of study, providing a carefully selected list of books and other learning materials to support your knowledge.
+
+
+>[!NOTE]
+> This repo is continuously updated with new learning materials.
